@@ -6,7 +6,7 @@ This repository contains music encodings created by Signature Sound Vienna, a re
 
 Each encoding is publicly licensed under the terms of the Creative Commons Attribution 4.0 (CC BY 4.0) license. Please refer to [LICENSE.md](LICENSE.md).
 
-Currently published encodings include orchestral scores for _An der schönen blauen Donau_, the Radetzky March, the _Kaiser-Walzer_, and the _Fledermaus_ overture. Further encodings are being prepared for publication.
+Currently published encodings include orchestral scores for _An der schönen blauen Donau_, the Radetzky March, the _Kaiser-Walzer_, and the _Fledermaus_ overture, and a piano reduction of _An der schönen blauen Donau_. Further encodings are being prepared for publication.
 
 Please reach out to @musicog for further information.
 
