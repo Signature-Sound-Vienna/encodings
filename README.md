@@ -8,6 +8,4 @@ Each encoding is publicly licensed under the terms of the Creative Commons Attri
 
 Currently published encodings include orchestral scores for _An der schönen blauen Donau_, the Radetzky March, the _Kaiser-Walzer_, and the _Fledermaus_ overture, and a piano reduction of _An der schönen blauen Donau_. Further encodings are being prepared for publication.
 
-Please reach out to @musicog for further information.
-
 Signature Sound Vienna is affiliated with the <a href="https://iwk.mdw.ac.at">Dept. of Music Acoustics – Wiener Klangstil</a> at <a href="https://mdw.ac.at">mdw – University of Music and Performing Arts Vienna</a>. Principal Investigator: <a href="https://orcid.org/0000-0003-1502-1528">David M. Weigl, PhD</a>.
