@@ -25,3 +25,6 @@
 [submodule "Josef-Strauss_Op271_Ohne-Sorgen_Cranz"]
 	path = Josef-Strauss_Op271_Ohne-Sorgen_Cranz
 	url = https://github.com/signature-sound-vienna/Josef-Strauss_Op271_Ohne-Sorgen_Cranz
+[submodule "Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz"]
+	path = Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz
+	url = https://github.com/Signature-Sound-Vienna/Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz
