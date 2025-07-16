@@ -19,3 +19,6 @@
 [submodule "Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina"]
 	path = Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina
 	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina
+[submodule "Josef-Strauss_Op235_Sphaerenklaenge_Spina"]
+	path = Josef-Strauss_Op235_Sphaerenklaenge_Spina
+	url = https://github.com/signature-sound-vienna/Josef-Strauss_Op235_Sphaerenklaenge_Spina
