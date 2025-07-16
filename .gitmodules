@@ -13,3 +13,6 @@
 [submodule "Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg"]
 	path = Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg
 	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg
+[submodule "Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz"]
+	path = Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz
+	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz
