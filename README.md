@@ -2,8 +2,6 @@
 
 This repository contains music encodings created by Signature Sound Vienna, a research project funded by the <a href="https://fwf.ac.at">FWF – Austrian Science Fund</a> (<a href="https://doi.org/10.55776/P34664">P34664-G</a>). Individual encodings are contained within their own repositories, and are included here as Git submodules.
 
-Currently published encodings include orchestral scores for _An der schönen blauen Donau_, the Radetzky March, the _Kaiser-Walzer_, and the _Fledermaus_ overture, and a piano reduction of _An der schönen blauen Donau_. All further listed encodings are being prepared for publication and will be available shortly.
-
 To clone this repository and each encoding's sub-module, use:
 
 `git clone --recursive https://github.com/Signature-Sound-Vienna/encodings.git`
