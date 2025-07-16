@@ -22,3 +22,6 @@
 [submodule "Josef-Strauss_Op235_Sphaerenklaenge_Spina"]
 	path = Josef-Strauss_Op235_Sphaerenklaenge_Spina
 	url = https://github.com/signature-sound-vienna/Josef-Strauss_Op235_Sphaerenklaenge_Spina
+[submodule "Josef-Strauss_Op271_Ohne-Sorgen_Cranz"]
+	path = Josef-Strauss_Op271_Ohne-Sorgen_Cranz
+	url = https://github.com/signature-sound-vienna/Josef-Strauss_Op271_Ohne-Sorgen_Cranz
