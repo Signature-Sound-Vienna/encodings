@@ -16,3 +16,6 @@
 [submodule "Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz"]
 	path = Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz
 	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Op332_Eljen-a-Magyar_Cranz
+[submodule "Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina"]
+	path = Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina
+	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina
