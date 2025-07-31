@@ -28,3 +28,6 @@
 [submodule "Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz"]
 	path = Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz
 	url = https://github.com/Signature-Sound-Vienna/Johann-und-Josef-Strauss_Op257_Pizzicato-Polka_Cranz
+[submodule "Johann-Strauss-Sohn_Op257_Perpetuum-mobile_Manuscript"]
+	path = Johann-Strauss-Sohn_Op257_Perpetuum-mobile_Manuscript
+	url = https://github.com/signature-sound-vienna/Johann-Strauss-Sohn_Op257_Perpetuum-mobile_Manuscript
